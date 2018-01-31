@@ -1,1 +1,5 @@
-" " " " " " " การจัดการบันทึก " ถูกออกแบบมาเป็นโปรแกรมที่ออกแบบมาสําหรับผู้หญิงและการใช้โปรแกรม โปรแกรมนี้จะใช้แผนภูมิที่น่ารักของวันนี้จะรอโอกาสการตั้งครรภ์ครั้งต่อไปวันที่ทางสรีรวิทยาที่แสดงออกมาอย่างเข้าใจได้ง่ายและสามารถใช้ในการจัดการและการบันทึกรอบทางสรีรวิทยา ผู้หญิงที่ชื่นชอบความสะดวกสบายในการทำงานให้บริการฟรีทั้งหมด
+Die note ist ein Kabinett MIT leichten notizen - app.
+Obwohl es sehr Klein, aber die eine funktion verfügbar Sind.
+Auch die Nutzung der sprachnotiz, ihre rede zu schreiben.
+Die vorlage gibt es verschiedene themen, Wie die Countdown -., to - do - liste, tagebücher und so weiter.
+Und es gibt nicht nur Platz, unterstützt auch die offline - Verwendung, unterstützt auch die notebooks, Etiketten - funktion.
